@@ -140,6 +140,12 @@ then
     echo "la definicion de championes es : zapatillas"
     sleep 5
     echo "ya lo dijo Balle: son una manga de ladrones del primero al ultimo"
+
+ elif [ $palabraIngresadaPorUsuario == "fitito" ];
+then
+    echo "la definicion de fitito es : fiat 600"
+    sleep 5
+    echo "ya lo dijo Balle: son una manga de ladrones del primero al ultimo"
     
     
     
